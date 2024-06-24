@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    font-style: oblique;
+    background-color: rgb(233, 238, 233);
+}
+
+#value {
+
+    font-size: 40px;
+}
+
+#contador {
+    color: blue;
+
+}
+
+button {
+    margin-right: 10px;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 40px;
+    background-color: rgba(185, 185, 255, 0.63);
+    padding: 15px;
+}
